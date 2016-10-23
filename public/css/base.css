@@ -1,0 +1,17 @@
+.base-logo {
+    width: 380px;
+    height: 250px;
+}
+.base-background {
+    background-image: url("../rsc/background.png");
+}
+#carousel-header {
+    max-height: 250px;
+}
+.item img{
+    height: 50%;
+    width: 100%;
+}
+.fa-color-white {
+    color: #FFFFFF;
+}
